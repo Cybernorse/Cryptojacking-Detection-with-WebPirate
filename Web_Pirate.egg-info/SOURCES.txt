@@ -1,0 +1,7 @@
+detective_pirate.py
+setup.py
+Web_Pirate.egg-info/PKG-INFO
+Web_Pirate.egg-info/SOURCES.txt
+Web_Pirate.egg-info/dependency_links.txt
+Web_Pirate.egg-info/requires.txt
+Web_Pirate.egg-info/top_level.txt

@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: Web-Pirate
+Version: 0.1
+Summary: A Command line tool written for detecting Cryptojacking malware in website. All you need to do is to give url of a website 
+    and it crawl down everything from the website and tell you whether this website has cryptojacking malware (it will provide infecting links)
+    or not (will provide nodthing) soon we will be providing python module for such tasks
+Home-page: {'Source Code': 'https://github.com/Cybernorse/Crytojacking-Malware-detection-with-web-pirate'}
+Author: Bigpenguin
+Author-email: waqarsher66@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: Cryptojacking Malware,Python,web Crawlers
+Platform: UNKNOWN
+Classifier: License :: Apache License 2.0

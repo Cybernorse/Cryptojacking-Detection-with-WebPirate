@@ -17,7 +17,7 @@ setup(
                     "lxml==4.6.3",
                     "mock==4.0.2",
                     "mypy_extensions==0.4.3",
-                    "numpy==1.18.2",
+                    "numpy==1.22.0",
                     "ordereddict==1.1",
                     "protobuf==3.11.3",
                     "proxyscrape==0.3.0",

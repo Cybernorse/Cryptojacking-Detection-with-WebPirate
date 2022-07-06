@@ -14,7 +14,7 @@ setup(
                     "ipaddr==2.2.0",
                     "keyring==21.2.0",
                     "lockfile==0.12.2",
-                    "lxml==4.6.3",
+                    "lxml==4.9.1",
                     "mock==4.0.2",
                     "mypy_extensions==0.4.3",
                     "numpy==1.22.0",

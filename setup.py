@@ -19,7 +19,7 @@ setup(
                     "mypy_extensions==0.4.3",
                     "numpy==1.22.0",
                     "ordereddict==1.1",
-                    "protobuf==3.11.3",
+                    "protobuf==3.18.3",
                     "proxyscrape==0.3.0",
                     "pyOpenSSL==19.1.0",
                     "simplejson==3.17.0",
